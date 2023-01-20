@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub
+
+This is a very short addition to this readme file.
 
 ## 🤓 Course overview and learning outcomes 
 

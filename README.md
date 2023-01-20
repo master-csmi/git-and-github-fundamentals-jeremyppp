@@ -1,4 +1,6 @@
-# :wave: The Basics of Git and GitHub 
+# :wave: The Basics of Git and GitHub
+
+A modification, here, within branche1
 
 ## 🤓 Course overview and learning outcomes 
 
